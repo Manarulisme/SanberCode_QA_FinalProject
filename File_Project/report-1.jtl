@@ -1,3 +1,9 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1738680231401,1029,POST Login,401,Unauthorized,Users_LoginUser 1-1,,false,Response was null,673,451,2,2,https://thinking-tester-contact-list.herokuapp.com/users/login,1029,0,762
-1738680231906,1239,POST Login,401,Unauthorized,Users_LoginUser 1-2,,false,Response was null,673,451,1,1,https://thinking-tester-contact-list.herokuapp.com/users/login,1239,0,911
+1738682921921,1303,POST Login,200,OK,Users_ContactList 1-1,text,true,,1258,442,1,1,https://thinking-tester-contact-list.herokuapp.com/users/login,1303,0,789
+1738682923225,257,POST Logout,401,Unauthorized,Users_ContactList 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",795,405,1,1,https://thinking-tester-contact-list.herokuapp.com/users/logout,257,0,0
