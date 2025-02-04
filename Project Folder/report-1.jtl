@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738681473147,1126,POST Login,200,OK,Users_LoginUser 1-1,text,true,,1262,442,1,1,https://thinking-tester-contact-list.herokuapp.com/users/login,1126,0,791
