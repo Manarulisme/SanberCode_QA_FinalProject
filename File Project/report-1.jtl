@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738673109079,1295,POST Login,404,Not Found,Users_LoginUser 1-1,text,false,,755,486,2,2,https://thinking-tester-contact-list.herokuapp.com/users/login,1295,0,986
+1738673109580,1037,POST Login,404,Not Found,Users_LoginUser 1-2,text,false,,755,486,1,1,https://thinking-tester-contact-list.herokuapp.com/users/login,1037,0,776

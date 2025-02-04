@@ -1,0 +1,166 @@
+2025-02-04 19:08:55,027 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-02-04 19:08:55,048 INFO o.a.j.JMeter: Loading user properties from: E:\Pelatihan\Sanbercode - Quality Assurance\Latihan JMeter\apache-jmeter-5.6.3\bin\user.properties
+2025-02-04 19:08:55,057 INFO o.a.j.JMeter: Loading system properties from: E:\Pelatihan\Sanbercode - Quality Assurance\Latihan JMeter\apache-jmeter-5.6.3\bin\system.properties
+2025-02-04 19:08:55,065 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-02-04 19:08:55,065 INFO o.a.j.JMeter: Version 5.6.3
+2025-02-04 19:08:55,066 INFO o.a.j.JMeter: java.version=23.0.2
+2025-02-04 19:08:55,066 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-02-04 19:08:55,066 INFO o.a.j.JMeter: os.name=Windows 10
+2025-02-04 19:08:55,066 INFO o.a.j.JMeter: os.arch=amd64
+2025-02-04 19:08:55,066 INFO o.a.j.JMeter: os.version=10.0
+2025-02-04 19:08:55,066 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-02-04 19:08:55,066 INFO o.a.j.JMeter: java.awt.headless=null
+2025-02-04 19:08:55,066 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-02-04 19:08:55,066 INFO o.a.j.JMeter: Available Processors =8
+2025-02-04 19:08:55,082 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-02-04 19:08:55,083 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-02-04 19:08:55,083 INFO o.a.j.JMeter: JMeterHome=E:\Pelatihan\Sanbercode - Quality Assurance\Latihan JMeter\apache-jmeter-5.6.3
+2025-02-04 19:08:55,083 INFO o.a.j.JMeter: user.dir  =E:\Pelatihan\Sanbercode - Quality Assurance\Final Project QA\Project Folder
+2025-02-04 19:08:55,083 INFO o.a.j.JMeter: PWD       =E:\Pelatihan\Sanbercode - Quality Assurance\Final Project QA\Project Folder
+2025-02-04 19:08:55,084 INFO o.a.j.JMeter: IP: 192.168.2.103 Name: redmi-note-9-pro FullName: redmi-note-9-pro
+2025-02-04 19:08:55,101 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-02-04 19:08:55,313 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2025-02-04 19:08:56,956 INFO o.a.j.r.ClassFinder: Will scan jar E:\Pelatihan\Sanbercode - Quality Assurance\Latihan JMeter\apache-jmeter-5.6.3\lib\ext\tag-jmeter-extn-1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-02-04 19:08:57,017 INFO o.a.j.r.ClassFinder: Will scan jar E:\Pelatihan\Sanbercode - Quality Assurance\Latihan JMeter\apache-jmeter-5.6.3\lib\ext\tag-jmeter-extn-1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-02-04 19:09:08,400 INFO o.a.j.s.FileServer: Default base='E:\Pelatihan\Sanbercode - Quality Assurance\Final Project QA\Project Folder'
+2025-02-04 19:09:08,403 INFO o.a.j.g.a.Load: Loading file: E:\Pelatihan\Sanbercode - Quality Assurance\Final Project QA\Project Folder\Contact List App - Load Test.jmx
+2025-02-04 19:09:08,403 INFO o.a.j.s.FileServer: Set new base='E:\Pelatihan\Sanbercode - Quality Assurance\Final Project QA\Project Folder'
+2025-02-04 19:09:08,639 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-02-04 19:09:08,696 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-02-04 19:09:08,698 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-02-04 19:09:08,699 INFO o.a.j.s.SaveService: Loading file: E:\Pelatihan\Sanbercode - Quality Assurance\Final Project QA\Project Folder\Contact List App - Load Test.jmx
+2025-02-04 19:09:08,737 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2025-02-04 19:09:08,739 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2025-02-04 19:09:08,748 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-02-04 19:09:08,748 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-02-04 19:09:08,748 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-02-04 19:09:08,748 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-02-04 19:09:08,748 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-02-04 19:09:08,748 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-02-04 19:09:09,053 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-02-04 19:09:09,053 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-02-04 19:09:09,053 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-02-04 19:09:09,053 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-02-04 19:09:09,124 INFO o.a.j.r.ClassFinder: Will scan jar E:\Pelatihan\Sanbercode - Quality Assurance\Latihan JMeter\apache-jmeter-5.6.3\lib\ext\tag-jmeter-extn-1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-02-04 19:09:09,141 INFO o.a.j.r.ClassFinder: Will scan jar E:\Pelatihan\Sanbercode - Quality Assurance\Latihan JMeter\apache-jmeter-5.6.3\lib\ext\tag-jmeter-extn-1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-02-04 19:09:09,232 INFO o.a.j.s.FileServer: Set new base='E:\Pelatihan\Sanbercode - Quality Assurance\Final Project QA\Project Folder'
+2025-02-04 19:17:25,740 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-02-04 19:17:25,741 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-02-04 19:17:25,741 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-02-04 19:17:25,742 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2025-02-04 19:17:25,742 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2025-02-04 19:17:25,841 INFO o.a.j.r.ClassFinder: Will scan jar E:\Pelatihan\Sanbercode - Quality Assurance\Latihan JMeter\apache-jmeter-5.6.3\lib\ext\tag-jmeter-extn-1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-02-04 19:17:25,845 INFO c.t.j.e.c.PropertyReader: Property file reader - loading the properties from E:\Pelatihan\Sanbercode - Quality Assurance\Final Project QA\Project Folder\config.properties
+2025-02-04 19:17:25,851 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-02-04 19:17:25,878 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users Load Testing
+2025-02-04 19:17:25,878 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Users Load Testing.
+2025-02-04 19:17:25,878 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-02-04 19:17:25,878 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2025-02-04 19:17:25,881 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-02-04 19:17:25,881 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-02-04 19:17:25,881 INFO o.a.j.t.JMeterThread: Thread started: Users Load Testing 1-1
+2025-02-04 19:17:25,895 INFO o.a.j.t.JMeterThread: Thread is done: Users Load Testing 1-1
+2025-02-04 19:17:25,896 INFO o.a.j.t.JMeterThread: Thread finished: Users Load Testing 1-1
+2025-02-04 19:17:26,380 INFO o.a.j.t.JMeterThread: Thread started: Users Load Testing 1-2
+2025-02-04 19:17:26,381 INFO o.a.j.t.JMeterThread: Thread is done: Users Load Testing 1-2
+2025-02-04 19:17:26,381 INFO o.a.j.t.JMeterThread: Thread finished: Users Load Testing 1-2
+2025-02-04 19:17:26,381 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-02-04 19:17:26,382 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-02-04 19:19:12,379 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-02-04 19:19:12,379 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-02-04 19:19:12,380 INFO c.t.j.e.c.PropertyReader: Property file reader - loading the properties from E:\Pelatihan\Sanbercode - Quality Assurance\Final Project QA\Project Folder\config.properties
+2025-02-04 19:19:12,381 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-02-04 19:19:12,407 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users Load Testing
+2025-02-04 19:19:12,407 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Users Load Testing.
+2025-02-04 19:19:12,407 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-02-04 19:19:12,407 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2025-02-04 19:19:12,408 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-02-04 19:19:12,409 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-02-04 19:19:12,408 INFO o.a.j.t.JMeterThread: Thread started: Users Load Testing 1-1
+2025-02-04 19:19:12,410 INFO o.a.j.t.JMeterThread: Thread is done: Users Load Testing 1-1
+2025-02-04 19:19:12,410 INFO o.a.j.t.JMeterThread: Thread finished: Users Load Testing 1-1
+2025-02-04 19:19:12,923 INFO o.a.j.t.JMeterThread: Thread started: Users Load Testing 1-2
+2025-02-04 19:19:12,924 INFO o.a.j.t.JMeterThread: Thread is done: Users Load Testing 1-2
+2025-02-04 19:19:12,924 INFO o.a.j.t.JMeterThread: Thread finished: Users Load Testing 1-2
+2025-02-04 19:19:12,924 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-02-04 19:19:12,925 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-02-04 19:20:14,215 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-02-04 19:20:14,215 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-02-04 19:20:14,217 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-02-04 19:20:14,242 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users Load Testing
+2025-02-04 19:20:14,243 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Users Load Testing.
+2025-02-04 19:20:14,243 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-02-04 19:20:14,243 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2025-02-04 19:20:14,244 INFO o.a.j.t.JMeterThread: Thread started: Users Load Testing 1-1
+2025-02-04 19:20:14,245 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-02-04 19:20:14,245 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-02-04 19:20:14,246 INFO o.a.j.t.JMeterThread: Thread is done: Users Load Testing 1-1
+2025-02-04 19:20:14,246 INFO o.a.j.t.JMeterThread: Thread finished: Users Load Testing 1-1
+2025-02-04 19:20:14,745 INFO o.a.j.t.JMeterThread: Thread started: Users Load Testing 1-2
+2025-02-04 19:20:14,746 INFO o.a.j.t.JMeterThread: Thread is done: Users Load Testing 1-2
+2025-02-04 19:20:14,746 INFO o.a.j.t.JMeterThread: Thread finished: Users Load Testing 1-2
+2025-02-04 19:20:14,746 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-02-04 19:20:14,747 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-02-04 19:20:51,080 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-02-04 19:20:51,080 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-02-04 19:20:51,082 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-02-04 19:20:51,107 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users Load Testing
+2025-02-04 19:20:51,107 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Users Load Testing.
+2025-02-04 19:20:51,107 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-02-04 19:20:51,107 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2025-02-04 19:20:51,108 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-02-04 19:20:51,109 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-02-04 19:20:51,108 INFO o.a.j.t.JMeterThread: Thread started: Users Load Testing 1-1
+2025-02-04 19:20:51,161 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = redmi-note-9-pro
+2025-02-04 19:20:51,184 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2025-02-04 19:20:51,280 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2025-02-04 19:20:51,285 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2025-02-04 19:20:51,285 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2025-02-04 19:20:51,608 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2025-02-04 19:20:51,612 INFO o.a.j.u.SSLManager: KeyStore created OK
+2025-02-04 19:20:51,612 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2025-02-04 19:20:51,624 INFO o.a.j.t.JMeterThread: Thread started: Users Load Testing 1-2
+2025-02-04 19:20:52,713 INFO o.a.j.t.JMeterThread: Thread is done: Users Load Testing 1-1
+2025-02-04 19:20:52,713 INFO o.a.j.t.JMeterThread: Thread finished: Users Load Testing 1-1
+2025-02-04 19:20:52,932 INFO o.a.j.t.JMeterThread: Thread is done: Users Load Testing 1-2
+2025-02-04 19:20:52,932 INFO o.a.j.t.JMeterThread: Thread finished: Users Load Testing 1-2
+2025-02-04 19:20:52,932 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-02-04 19:20:52,933 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-02-04 19:22:33,101 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-02-04 19:22:33,102 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-02-04 19:22:33,104 INFO c.t.j.e.c.PropertyReader: Property file reader - loading the properties from E:\Pelatihan\Sanbercode - Quality Assurance\Final Project QA\Project Folder\config.properties
+2025-02-04 19:22:33,104 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-02-04 19:22:33,129 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users Load Testing
+2025-02-04 19:22:33,130 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Users Load Testing.
+2025-02-04 19:22:33,130 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-02-04 19:22:33,130 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2025-02-04 19:22:33,131 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-02-04 19:22:33,131 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-02-04 19:22:33,131 INFO o.a.j.t.JMeterThread: Thread started: Users Load Testing 1-1
+2025-02-04 19:22:33,631 INFO o.a.j.t.JMeterThread: Thread started: Users Load Testing 1-2
+2025-02-04 19:22:34,427 INFO o.a.j.t.JMeterThread: Thread is done: Users Load Testing 1-1
+2025-02-04 19:22:34,428 INFO o.a.j.t.JMeterThread: Thread finished: Users Load Testing 1-1
+2025-02-04 19:22:34,665 INFO o.a.j.t.JMeterThread: Thread is done: Users Load Testing 1-2
+2025-02-04 19:22:34,665 INFO o.a.j.t.JMeterThread: Thread finished: Users Load Testing 1-2
+2025-02-04 19:22:34,666 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-02-04 19:22:34,666 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-02-04 19:45:09,038 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-02-04 19:45:09,039 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-02-04 19:45:09,040 INFO c.t.j.e.c.PropertyReader: Property file reader - loading the properties from E:\Pelatihan\Sanbercode - Quality Assurance\Final Project QA\Project Folder\config.properties
+2025-02-04 19:45:09,041 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-02-04 19:45:09,073 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users_LoginUser
+2025-02-04 19:45:09,073 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Users_LoginUser.
+2025-02-04 19:45:09,073 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-02-04 19:45:09,073 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2025-02-04 19:45:09,075 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-02-04 19:45:09,075 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-02-04 19:45:09,075 INFO o.a.j.t.JMeterThread: Thread started: Users_LoginUser 1-1
+2025-02-04 19:45:09,579 INFO o.a.j.t.JMeterThread: Thread started: Users_LoginUser 1-2
+2025-02-04 19:45:10,433 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in Extract Token Value, message: json can not be null or empty
+2025-02-04 19:45:10,433 INFO o.a.j.t.JMeterThread: Thread is done: Users_LoginUser 1-1
+2025-02-04 19:45:10,433 INFO o.a.j.t.JMeterThread: Thread finished: Users_LoginUser 1-1
+2025-02-04 19:45:10,617 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in Extract Token Value, message: json can not be null or empty
+2025-02-04 19:45:10,617 INFO o.a.j.t.JMeterThread: Thread is done: Users_LoginUser 1-2
+2025-02-04 19:45:10,617 INFO o.a.j.t.JMeterThread: Thread finished: Users_LoginUser 1-2
+2025-02-04 19:45:10,618 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-02-04 19:45:10,618 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
